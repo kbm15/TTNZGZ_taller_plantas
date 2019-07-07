@@ -5,7 +5,7 @@ Autor de la ponencia: Arturo H.
 # Descripcion  
 El objetivo es acercar el conocimiento necesario para el desarrollo de un nodo lora que reportara la informacion procedente de un sensor.  
 En este caso hemos elegido un sensor de humedad conectado a unas placas de LoraWan fabricadas por Heltec.  
-Toda la informacion para seguir el taller se encuentra en la wiki.  
+Toda la informacion para seguir el taller se encuentra en [la wiki](https://github.com/kbm15/TTNZGZ_taller_plantas/wiki).  
 Se han elegido estas placas porque son las mas conocidas por el autor, pero durante el taller se utilizaran tambien aquellas que hayan decidido traer y aportar los miembros.  
 Los sensores se configuraran para reportar datos segun las directrices de TTN y estudiaremos la posibilidad de utilizar integraciones para visualizar los mismos. Ademas intentaremos hacer aproximaciones de bajo consumo.  
 
